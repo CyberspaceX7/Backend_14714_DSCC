@@ -1,0 +1,6 @@
+@DSCC.CW1.Backend._14714_HostAddress = http://localhost:5142
+
+GET {{DSCC.CW1.Backend._14714_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
